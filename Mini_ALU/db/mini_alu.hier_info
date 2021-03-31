@@ -1,0 +1,11 @@
+|not_bitwise
+x[0] => outcome[0].DATAIN
+x[1] => outcome[1].DATAIN
+x[2] => outcome[2].DATAIN
+x[3] => outcome[3].DATAIN
+outcome[0] <= x[0].DB_MAX_OUTPUT_PORT_TYPE
+outcome[1] <= x[1].DB_MAX_OUTPUT_PORT_TYPE
+outcome[2] <= x[2].DB_MAX_OUTPUT_PORT_TYPE
+outcome[3] <= x[3].DB_MAX_OUTPUT_PORT_TYPE
+
+

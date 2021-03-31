@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Feb 28 16:12:43 2020
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : sram16
+Top-level Entity Name : memory_32x32
+Family : Cyclone II
+Total logic elements : 2,915
+    Total combinational functions : 1,891
+    Dedicated logic registers : 2,048
+Total registers : 2048
+Total pins : 81
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
